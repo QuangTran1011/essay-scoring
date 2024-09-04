@@ -1,0 +1,4 @@
+image:
+  repository: quangtran1011/essay_scoring
+  tag: "0.0.1"
+  pullPolicy: Always
